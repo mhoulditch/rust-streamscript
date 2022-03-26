@@ -1,0 +1,11 @@
+title = "List of current Streams"
+
+[[stream]]
+name = 'example_stream_1'
+url = 'https://example.com/foo'
+mode = "video/audio"
+
+[[stream]]
+name = 'example_audio_only_stream'
+url = 'https://example.com/bar'
+mode = "audio"
